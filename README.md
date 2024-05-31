@@ -8,8 +8,8 @@ The primary objective of this analysis is to develop a robust deep learning mode
 
 ### Data Preprocessing
 
--**Target Variable**:
-  - `IS_SUCCESSFUL: Indicates whether a charity donation application was successful.
+**Target Variable**:
+  - IS_SUCCESSFUL: Indicates whether a charity donation application was successful.
   
 - **Feature Variables**: 
   - `APPLICATION_TYPE`
