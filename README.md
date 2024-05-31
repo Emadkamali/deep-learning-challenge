@@ -26,11 +26,11 @@ The primary objective of this analysis is to develop a robust deep learning mode
 
 ### Compiling, Training, and Evaluating the Model
 
--**Neurons, Layers, and Activation Functions**:
- -**First Model**:
-  -**First hidden layer**: 80 neurons, ReLU activation
-  -**Second hidden layer**: 30 neurons, ReLU activation
-  -**Output layer**: 1 neuron, sigmoid activation
+**Neurons, Layers, and Activation Functions**:
+ **First Model**:
+  **First hidden layer**: 80 neurons, ReLU activation
+  **Second hidden layer**: 30 neurons, ReLU activation
+  **Output layer**: 1 neuron, sigmoid activation
 
 -**Second Model**:
   -**First hidden layer**: 85 neurons, ReLU activation
