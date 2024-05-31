@@ -69,4 +69,5 @@ The deep learning model demonstrated its capability to predict the success of ch
   
   **Cross-Validation**: Implement cross-validation to ensure the model's performance is robust and generalizes well to unseen data.
   
-Exploring these strategies may lead to improved accuracy and reliability in predicting the success of charity donation applications.
+
+-Exploring these strategies may lead to improved accuracy and reliability in predicting the success of charity donation applications.
